@@ -2,7 +2,7 @@
 
 ## Description
 
-What Horiseon strives to do is to provide search engine optimization, online reputation management and as well as social media marketing. Per their request I refactored their code to be cleaner along with having proper accesability for users with disabilitys and with the added benefits of enhanced SEO proformance. Users should also experience quicker load times than normal due to less code having to load. 
+What Horiseon strives to do is to provide search engine optimization, online reputation management and as well as social media marketing. Per their request I refactored their code to be cleaner along with having proper accesability for users with disabilitys and with the added benefits of enhanced SEO preformance. Users should also experience quicker load times than normal due to less code having to load. 
 
 Having said that here is a small list of things that got improved:
 
